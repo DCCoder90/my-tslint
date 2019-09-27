@@ -1,0 +1,6 @@
+# Jetbrains IDEA
+/.idea
+*.iml
+
+# NPM
+/node_modules

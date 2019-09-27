@@ -1,0 +1,20 @@
+{
+  "name": "my-tslint",
+  "version": "1.0.0",
+  "description": "TSLint the way Juraji likes it",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juraji/my-tslint.git"
+  },
+  "author": "Juraji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juraji/my-tslint/issues"
+  },
+  "homepage": "https://github.com/Juraji/my-tslint#readme",
+  "devDependencies": {
+    "tslint": "^5.20.0",
+    "codelyzer": "^5.1.2",
+    "tslint-import-group-ordering": "^2.1.2"
+  }
+}
